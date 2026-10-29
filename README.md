@@ -54,6 +54,7 @@ If you cannot provide a valid website for your agency, your PR will not be accep
 - [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu | Creative and branding agency that helps brands realise their true potential
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital marketing, optimized websites, management systems, mobile applications and IT consultation
 - [Webpoint Solutions, LLC](https://www.webpoint.io/) | Sanepa, Lalitpur | Web development and digital marketing agency
+- [Wizonbiz Digital](https://wizonbiz.com/) | Purano Baneshwor | Web Development, SEO, Digital Marketing, Graphics Design
 
 ---
 
