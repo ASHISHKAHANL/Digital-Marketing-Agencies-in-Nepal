@@ -17,8 +17,7 @@ A curated list of digital marketing agencies (and teams) based or working in Nep
 
 ```
 - [Agency Name](https://my.agency) | location, city | what does it do
-```
-
+``` 
 ### Duds
 
 If you cannot provide a valid website for your agency, your PR will not be accepted.
@@ -44,9 +43,11 @@ If you cannot provide a valid website for your agency, your PR will not be accep
 
 - [JO Marketing Pvt. Ltd.](https://jomarketing.net/) | Lalitpur | Full-service digital marketing agency offering SEO, content marketing, social media marketing, PPC, email marketing and CRO
 
-## M - O
+## M - R
 
 - [Makura Creations](https://makuracreations.com/) | Pulchowk Rd, Patan | Social media marketing, SEO, web design/development, branding and mobile app development
+
+- [Prixa Digital](https://prixa.digital/) | Kupondole, Lalitpur | Digital Marketing agency driving real results in Nepali market with services like, Video Production, Performance marketing, SEO, Graphics Design, Social media handling, Branding, TVCs shooting, providing a full 360 marketing service.
 
 ## S - W
 
